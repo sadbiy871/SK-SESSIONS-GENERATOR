@@ -10,7 +10,7 @@
 
 ## 💡 Fork This Project
 
-[![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/sadbiy871/sk-pair/fork)
+[![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/sadbiy871/SK SESSIONS GENERATOR/fork)
 
 Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web QR login.
 
@@ -37,7 +37,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 | Platform | Deploy |
 |---------|--------|
-| 🟣 Heroku | [![Deploy to Heroku](https://img.shields.io/badge/DEPLOY-HEROKU-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/sadbiy871/sk-pair) |
+| 🟣 Heroku | [![Deploy to Heroku](https://img.shields.io/badge/DEPLOY-HEROKU-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/sadbiy871/SK SESSIONS GENERATOR-pair) |
 | 🔵 Render | [![Deploy to Render](https://img.shields.io/badge/DEPLOY-RENDER-blue?style=for-the-badge&logo=render)](https://dashboard.render.com/) |
 | ⚫ Koyeb | [![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
 
