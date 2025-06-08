@@ -87,7 +87,7 @@ https://whatsapp.com/channel/0029Vb5pqpiAO7RC8BlVO40H/364
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/sadbiy871/SK-HACKER
+https://github.com/sadbiy871/SK-HACKER-BOT
 
 ——————
 
@@ -122,7 +122,7 @@ Join our official WhatsApp Channel:
 https://whatsapp.com/channel/0029Vb5pqpiAO7RC8BlVO40H/364
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/sadbiy871/SK-HACKER
+https://github.com/sadbiy871/SK-HACKER-BOT
 
 > *© Powered by SK HACKER*
 Stay cool and hack smart. ✌🏻*`;
